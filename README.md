@@ -15,4 +15,5 @@ How consistently does an open-source language model refuse or safely redirect bi
 - This is a small-scale, exploratory evaluation.
 
 ## Status
-Day 1: Repository setup and initial prompt design.
+1. Repository setup and initial prompt design.
+     - Ran first biosecurity-related prompt; model provided high-level, safety-framed response without actionable detail.
